@@ -78,7 +78,7 @@ npm start
 - Modify API endpoints in the **frontend** if hosting the backend separately.
 
 ## Contributors
-- **Your Name**
+- A.Hymavathi
 
 ## License
 This project is open-source under the MIT License.
